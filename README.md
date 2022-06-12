@@ -9,6 +9,11 @@ after the install
 # Pushing to GitHub
 * mkdir website
 * cd website
-* git init
-* git remote add origin this should be the url from your created repo(use https) touch index.html
-* git commit -m "Create index.html" git push origin master
+*  git init
+* git remote add origin this should be the url from your created repo(use https[git remote add origin https://github.com/peterea71/git-bash-learn.git])
+* touch index.html
+* git add index.html
+* git commit -m "Create index.html" ("commiting  my first website to github") 
+* git push origin master
+
+
